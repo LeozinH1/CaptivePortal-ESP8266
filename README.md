@@ -4,6 +4,7 @@ Projeto pego do Github do [Penegui](https://github.com/Penegui).
 
 ### Créditos
 
-[ESPBug_PIO](https://github.com/guanicoe/ESPBug_PIO) - Projeto Base </br>
+[Projeto Base](https://github.com/willmendil/ESPBug) - Projeto Base </br>
+[ESPBug_PIO](https://github.com/guanicoe/ESPBug_PIO) - Reestruturação </br>
 [Penegui](https://github.com/Penegui) - Alterações
 
